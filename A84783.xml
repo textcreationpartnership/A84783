@@ -1,0 +1,301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from His Excellency the Lord Fairfax to the House of Peers, upon Munday being the fifth of June, 1648. concerning all the proceedings in Kent : with severall papers found in the pockets of some that are now taken prisoners, discovering the whole designe, and the manner how it should have been put in execution. Die Lunæ, 5 Junii, 1648. Ordered by the Lords in Parliament assembled, that the Lord Generalls letter, with the papers, be forthwith printed and published. Jo. Brown, cler. Parliamentorum.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84783</idno>
+            <idno type="STC">Wing F180</idno>
+            <idno type="STC">Thomason E445_40</idno>
+            <idno type="STC">ESTC R202093</idno>
+            <idno type="EEBO-CITATION">99862500</idno>
+            <idno type="PROQUEST">99862500</idno>
+            <idno type="VID">114661</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84783)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114661)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E445[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from His Excellency the Lord Fairfax to the House of Peers, upon Munday being the fifth of June, 1648. concerning all the proceedings in Kent : with severall papers found in the pockets of some that are now taken prisoners, discovering the whole designe, and the manner how it should have been put in execution. Die Lunæ, 5 Junii, 1648. Ordered by the Lords in Parliament assembled, that the Lord Generalls letter, with the papers, be forthwith printed and published. Jo. Brown, cler. Parliamentorum.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Iohn Wright, at the Kings Head in the Old Bailey,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  England --  Kent --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Kent --  Early works to 1800.</term>
+               <term>Kent (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114661:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 124 -->
+            <p>A LETTER FROM His Excellency the Lord <hi>Fairfax</hi> to the Houſe of Peers, upon Munday being the fifth of <hi>J<g ref="char:V">Ʋ</g>NE,</hi> 1648. concerning all the proceedings in KENT: WITH Severall Papers found in the pockets of ſome that are now taken Priſoners, diſcovering the whole Deſigne, And the manner how it ſhould have been put in Execution.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Lunae, 5 Junii, 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords in Parliament aſſembled, That the Lord Generalls Letters, with the Pa<g ref="char:EOLhyphen"/>pers, be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>Jo. Brown, Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Imprinted at <hi>London</hi> for <hi>Iohn Wright,</hi> at the Kings Head in the Old Bailey. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114661:2"/>
+            <!-- PDF PAGE 125 -->
+            <pb n="1" facs="tcp:114661:2"/>
+            <!-- PDF PAGE 125 -->
+            <head>For the Right Honourable, ED<g ref="char:EOLhyphen"/>VVARD Earle of MANCHESTER, Speaker of the Houſe of Peeres, <hi>Pro tempore.</hi>
+            </head>
+            <opener>
+               <salute>My Lord:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Shall according to my laſt give your Lordſhip this further Ac<g ref="char:EOLhyphen"/>count of our ſucceſſe at Maid<g ref="char:EOLhyphen"/>ſtone, Upon Thurſday in the Evening about ſeven of the Clock, after very long Mar<g ref="char:EOLhyphen"/>ches we got neare the Towne, and a Troope of Dragoones was ſent to make good a Paſſe whileſt the Towne was view<g ref="char:EOLhyphen"/>ing at what place our men might beſt enter, it be<g ref="char:EOLhyphen"/>ing reſolved upon to force our paſſage in caſe of reſiſtance, the gaining of that Towne over the River being of great advantage to our Affaires; but before there could be a view taken of the Towne the Dragoones had ingaged the Enemy, and forc't them from that ground which they
+<pb n="2" facs="tcp:114661:3"/>
+               <!-- PDF PAGE 126 -->kept, the Dragoones being very forward to in<g ref="char:EOLhyphen"/>gage purſued, and ſo the Enemy drew forth a conſiderable Party of Horſe and Foot to maine<g ref="char:EOLhyphen"/>taine a Paſſe againſt us, which neceſſitated the drawing downe of the greateſt part of the Foot, with ſome Horſe, and though that part of the Towne was of the greateſt difficulty to enter, yet through the goodneſſe of God our men made their entrance, and became maſters of the Town, after foure or five houres hot ſervice, the Town being very ſtrongly barricadoed, and through the darkneſſe of th<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight, and our ignorance of the Towne, they diſputed the Barricadoes and places of advantage with our men, playing hard with their Cannon upon them, in which ſervice both Horſe and Foot did exceeding well; and particularly, I cannot but take notice of the va<g ref="char:EOLhyphen"/>lour and reſolution of Colonell <hi>Hewſon,</hi> whoſe Regiment had the hardeſt taske; Major <hi>Carter</hi> his Major being hurt, and Captaine <hi>P<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ic<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> a de<g ref="char:EOLhyphen"/>ſerving and faithfull Officer ſlaine, the beſt of their men were there, whereof many were Ca<g ref="char:EOLhyphen"/>valiers and <hi>London</hi> Apprentices, they lookt upon the conſequence of that place to be very great, and therefore did reſolve to make what reſiſtance they could, the old Lord <hi>Goring</hi> being that day proclaimed Generall at the Head of their Army, upon the Hill neare Aylesford, where we ſaw their Body drawne up, which as their Priſoners ſince doe confeſſe, and they themſelves gave out conſiſted of 8000. beſides thoſe in Maideſton and Aylesford, in both which places there were
+<pb n="3" facs="tcp:114661:3"/>
+               <!-- PDF PAGE 126 -->about 3000. men; thoſe of Aylesford comming as a freſh ſupply to relieve thoſe ingaged in Maid<g ref="char:EOLhyphen"/>ſton. There were neare 300. ſlaine, and about 1300. Priſoners, many of them being taken next morning early in the woods, Hop-yards, &amp; Fields, whither they fled in the time of the Fight; amongſt which were Gentlemen of good quali<g ref="char:EOLhyphen"/>ty, Sir <hi>Gamaliel Dudley,</hi> Sir <hi>William Brockman,</hi> Squire <hi>Scot,</hi> Major <hi>Price,</hi> and others, a Liſt whereof is preparing to be ſent. There were about five hundred Horſe, three thouſand Arms, nine Foot-Colours, and eight peices of Canon, with ſtore of Ammunition alſo taken in the firſt charge which our Forlorne Hope gave the Ene<g ref="char:EOLhyphen"/>mies Horſe (wherein our Horſe carried them<g ref="char:EOLhyphen"/>ſelves very gallantly (as I ſince heare) Sir <hi>John Many,</hi> and divers others of quality were ſlaine. After it pleaſed God to give us this great mercy in the gaining the Towne, their men received ſo great diſcouragement that the greateſt part of their Army left them, and were diſperſed, and a great number of Officers and Gentlemen ſince fled to ſhift for themſelves; their word at the in<g ref="char:EOLhyphen"/>gagement was, <hi>King and Kent,</hi> our's, <hi>Truth.</hi> Ha<g ref="char:EOLhyphen"/>ving thus poſſeſſed our ſelves of the Paſſes at Maidſton and Aylesford, the Enemy being much confuſed with our ſucceſſe, and their owne men diſcerting them, they at laſt Marched over Rocheſter Bridge towards Blacke Heath with a<g ref="char:EOLhyphen"/>bout three thouſand Horſe and Foot, moſt of which were Cavaliers, Apprentices, and Water<g ref="char:EOLhyphen"/>men; our men not being able to make ſo ſpeedy
+<pb n="4" facs="tcp:114661:4"/>
+               <!-- PDF PAGE 127 -->a March after them as was neceſſary, I ſent Col. <hi>Whaley</hi> with a Party of Horſe and Dragoones after them, upon whoſe approach they have left Kent, and are fled over the water into Eſſex, by Woolwich and Greenwich; Col. <hi>Whaley</hi> is in purſuit, and I doubt not but he will give a good account of that ſervice.</p>
+            <p>I have ſent Col. <hi>Rich</hi> with a Party of Horſe and Foot to relieve Dover, where I truſt we ſhall finde the ſame preſence of God as hitherto hath been. My Prayer to the Lord is, That this great Mercy may be further improved to his glory and this Kingdomes good; I thought fit to preſent unto your Lordſhip theſe Papers inclo<g ref="char:EOLhyphen"/>ſed taken from the Enemy, whereby you will per<g ref="char:EOLhyphen"/>ceive the depth of their Plot and their engage<g ref="char:EOLhyphen"/>ments to purſue what they have undertaken: I remaine;</p>
+            <closer>
+               <signed>Your Lordſhips humble Servant. <hi>FAIRFAX.</hi>
+               </signed>
+               <dateline>Rocheſter <date>4 Junii, 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>I have ſecured the Mayor of Rocheſter, whoſe hand is to the Commiſſions granted for raiſing of Forces.</p>
+            </postscript>
+         </div>
+         <div type="document">
+            <pb n="5" facs="tcp:114661:4"/>
+            <!-- PDF PAGE 127 -->
+            <head>The Copies of ſeverall Papers taken in the Pockets of ſome priſoners ta<g ref="char:EOLhyphen"/>ken at <hi>Maidſtone,</hi> in <hi>Kent,</hi> Thurſday.</head>
+            <p>COmmander in chiefe.</p>
+            <p>To be divided into Briggades, Regiments, and Companies, and to have neceſſary Commanders and Officers over them. All other Officers, Quarter-ma<g ref="char:EOLhyphen"/>ſters, Scout-maſters, Muſter-maſter, Engineer, <hi>&amp;c.</hi>
+            </p>
+            <p>Pyoneers and their Commanders, and neceſſary proviſions, of Shovels, Spades, Mattocks, Wheele-Barrowes, Edge-Tooles, <hi>&amp;c.</hi> To make defences a<g ref="char:EOLhyphen"/>gainſt Horſe, and Breſtworks, for Muſqueteers, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Quere,</hi> Drakes, and Feild-Peices.</p>
+            <p>To fortifie the Blockhouſe at Graves-end.</p>
+            <p>And what courſe ſhall be taken that we may be ſupplyed out of <hi>Eſſex,</hi> when need is.</p>
+            <p>And to endeavour ſupplies out of <hi>Suſſex.</hi>
+            </p>
+            <p>
+               <hi>Quere,</hi> whether not neceſſary to Fortifie <hi>Rocheſter,</hi> with a Line and Forts.</p>
+            <p>To take away all Armes from the adverſe party, and to ſecure the Perſons of ſuch as are moſt power<g ref="char:EOLhyphen"/>full and dangerous.</p>
+            <pb n="6" facs="tcp:114661:5"/>
+            <!-- PDF PAGE 127 -->
+            <p>If the Enemy be ſtronger then wee, then to take courſe for retreat beyond <hi>Medtray.</hi>
+            </p>
+            <p>To fortifie Bridges, and which to break down, thoſe Bridges which are not fit to be Fortified, and to ſtop up the Fordes.</p>
+            <p>
+               <hi>Quere,</hi> whether Fortifie Tun-Bridge Caſtle, and the the Bridge there.</p>
+            <p>A ſelect counſell of Warre, not of very many to avoid confuſion in debates, and to prevent diſcovery of ſecrets.</p>
+            <p>Another Counſell or Committee to heare, and diſpatch ordinary things, that the Councell of Warre be not troubled with overmuch buſineſſe.</p>
+            <p>
+               <hi>Quere,</hi> how to order all affaires when we go up with our Petition and to ſecure <hi>Maidſtone, &amp;c.</hi> When we are gone, to take ſpeciall Order for intelligence.</p>
+            <p>To appoint an Officer, or Commiſſary, to deliver out Armes, who muſt not deliver till he is well in<g ref="char:EOLhyphen"/>formed to whom, and to take notice of their names.</p>
+            <p>The Trained-Bands of <hi>Maidſtone,</hi> have lent two Auxiliaries, <hi>&amp;c.</hi> Eighty Armes, who deſire to have them againe, and that the Auxiliaries be otherwiſe furniſhed.</p>
+            <p>To appoint Colonels, Captaines, and Officers, over all the Trained Bands, and to conſider touching vo<g ref="char:EOLhyphen"/>luntaries and Auxiliaries.</p>
+         </div>
+         <div type="document">
+            <pb n="7" facs="tcp:114661:5"/>
+            <!-- PDF PAGE 128 -->
+            <opener>
+               <dateline>
+                  <date>Rocheſter 30 Maii, 1648.</date>
+               </dateline>
+            </opener>
+            <p>VVE oblige our ſelves by the faith of Chri<g ref="char:EOLhyphen"/>ſtians, and the honour of Gentlemen, not to diſcover or betray any debates or concluſions con<g ref="char:EOLhyphen"/>cluded or reſolved upon by the Subſcribers hereof; and further, faithfully and reſolutely to deliver our Judgments and endeavour in eff<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctuating of theſe reſults.</p>
+            <list>
+               <item>1 THere is no credit to be given to words or promiſes but to the reall performances of your deſires and that ſpeedily</item>
+               <item>2 You cannot imagine that your County ſhall be free from their power, and other Counties ſubject to the ſame.</item>
+               <item>3 Treaties and promiſes are to the end onely for you to ſurceaſe the proſecution of your affaires, untill they can make ready a power to ſuppreſſe you.</item>
+               <item>4 You can have no better ſecurity than their Votes, and all men know they change them dayly, and the ſlaughter of the <hi>Surrey</hi> men and the juſtifi<g ref="char:EOLhyphen"/>cation thereof by a Vote of theirs, and the hanging of Captaine <hi>Burley</hi> doth evidently ſhew what is to be expected by any who oppoſe them. Nothing can
+<pb n="8" facs="tcp:114661:6"/>
+                  <!-- PDF PAGE 129 -->ſecure you but the reſtoring of the King, and the Lawes.</item>
+               <item>6 Their power at this preſent is imployed in the ſuppreſſing of other Countries who have the ſame ends with you. And their Army for the maine part thereof, is divided into ſeverall remote parts, as <hi>Wales, Cornwal,</hi> the <hi>North, Suffolk. &amp;c.</hi> So that you can ne<g ref="char:EOLhyphen"/>ver have ſo oppertune time to effect your deſires, and therefore to loſe this time is to loſe your buſi<g ref="char:EOLhyphen"/>neſſe and to be deſtroyed.</item>
+               <item>7 A Letter to be ſent to the <hi>Londoners,</hi> for their concurrence, &amp; to permit them an admiſſion through the City, as they had unto <hi>Eſſex</hi> and <hi>Surrey,</hi> in which Letter recite all the Indignities the Houſes and the Army have put upon the City from time to time, as the changing of their Militia, taking from them the Tower and leaving it now empty, the ſlaughter of their apprentices, their Impriſoning of the<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mayor and Aldermen, the Demolition of their wo<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks, the rejection of their Remonſtrance, their Triumphant Marching through their City, their diſtruſting of the City to guard the Houſes, making of Ordinances to take away their Votes in chuſing of City Officers, and their late Ordinance for the Militia to the City, left at their pleaſure to revoke when they will.</item>
+            </list>
+            <p>Things are brought to that paſſe, that the treaſure of the Kingdome is exported, none brought in, trade utterly decayed, dearth increaſeth, a Foraigne Nation will come in unleſſe ſome other ſpeedy way be ta<g ref="char:EOLhyphen"/>ken for the ſpeedy reſtoring of the King, which this City, by concurring with their Neighbours, at this
+<pb n="9" facs="tcp:114661:6"/>
+               <!-- PDF PAGE 129 -->time may doe, otherwiſe all the miſeries that ſhall enſue, muſt be imputed to them.</p>
+            <p>This Letter will be of no effect unleſſe one of theſe two courſes be taken, either to have it delivered and read in a Common Hall, where all the Citizens are aſſembled, or if that cannot be, to have it print<g ref="char:EOLhyphen"/>ed and diſperſed through the City, and the Letter muſt be directed to the Lord Mayor and Commo<g ref="char:EOLhyphen"/>nalty of the City of <hi>London.</hi>
+            </p>
+            <p>Send to the Prince for Commiſſion for a Com<g ref="char:EOLhyphen"/>mander in chiefe, and ſome other Officers, and have a ſtanding Councell, compoſed of 4 perſons of every of the aſſociated Counties, a ſtanding Army, a Commander in chiefe, Aſſeſſments upon the Country to maintaine them, and therein a ſparing of the Common people what poſſible may be.</p>
+         </div>
+         <div type="document">
+            <opener>
+               <dateline>Rocheſter <date>May. 29. 1648.</date>
+               </dateline>
+            </opener>
+            <p>ORdered that Sir <hi>William Compton</hi> Knight, take the Command of a Regiment of Horſe, con<g ref="char:EOLhyphen"/>ſiſting of five hundred, as Colonell of the ſaid Regi<g ref="char:EOLhyphen"/>ment.</p>
+            <closer>
+               <dateline>
+                  <date>Given under our hands the day and yeare a<g ref="char:EOLhyphen"/>bove-ſaid.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Phil. Maude <hi>Mayor,</hi>
+                     </item>
+                     <item>Robert Trewe,</item>
+                     <item>Francis Clerke,</item>
+                     <item>John Durell,</item>
+                     <item>Edward Hales,</item>
+                     <item>James Darell,</item>
+                     <item>George Newman.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="10" facs="tcp:114661:7"/>
+            <!-- PDF PAGE 130 -->
+            <opener>
+               <dateline>
+                  <date>31 May. 1648.</date>
+               </dateline>
+            </opener>
+            <p>REceived then of <hi>Iohn Lambe</hi> Eſquire, the ſum of Ten Pounds, as ſo much by him lent to the Gentlemen Petitioners, to bee repaid him a<g ref="char:EOLhyphen"/>gaine within a Moneth, witneſſe my hand.</p>
+            <closer>
+               <signed>Iohn Mapliſden</signed>
+            </closer>
+            <postscript>
+               <opener>
+                  <salute>To all Colonells, and Captaines of Courts of Guards, and others whom it may concerne.</salute>
+               </opener>
+               <p>THeſe are to deſire you to permit and ſuffer the bearer hereof Maſter <hi>Iohn Lambe</hi> quietly to paſſe to <hi>Rocheſter,</hi> and from thence to <hi>London</hi> with his Horſe and man, and from thence to returne a<g ref="char:EOLhyphen"/>gaine without any Moleſtation.</p>
+               <closer>
+                  <dateline>Given under our hands at <hi>Maidſton</hi> 
+                     <date>this 31 of May, 1648.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>Thomas Stanley,</item>
+                        <item>Iohn Beſt,</item>
+                        <item>Ambr. Beale.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
